@@ -5,6 +5,8 @@ Database Log Files [link](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide
 
 Working with DB Parameter Groups [link](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_WorkingWithParamGroups.html)
 
+Using Amazon RDS Performance Insights [link](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_PerfInsights.html)
+
 #### Terça - 06/11/2018
 
 
