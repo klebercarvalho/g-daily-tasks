@@ -7,6 +7,10 @@ Working with DB Parameter Groups [link](https://docs.aws.amazon.com/AmazonRDS/la
 
 Using Amazon RDS Performance Insights [link](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_PerfInsights.html)
 
+Criar uma instancia de DB MySQL em SP para testar o Dashboard
+
+DB Cluster - WIP
+
 #### Terça - 06/11/2018
 
 
