@@ -10,7 +10,7 @@
 08:15 - 12:15 - Criar um POC do Banco de Dados usando Amazon RDS / Aurora
 
 
-#### Semana 2
+#### * Semana 2
 
 #### Quinta - 01/11/2018
 
@@ -29,7 +29,7 @@
 
 08:15 - 12:30 - Último ajustes no desenho da nova arquitetura. Conversei com o Acessor sobre o servidor de VPN e o microtik
 
-#### Semana 1
+#### * Semana 1
 
 #### Sexta - 26/10/2018
 
