@@ -13,7 +13,7 @@ High Availability [link](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/
 
 Working with Read Replicas [link](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ReadRepl.html)
 
-AWS Database Migration Service [link](https://aws.amazon.com/pt/dms/)
+TO-DO AWS Database Migration Service [link](https://aws.amazon.com/pt/dms/)
 
 #### Terça - 06/11/2018
 
