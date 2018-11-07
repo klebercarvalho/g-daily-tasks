@@ -9,7 +9,11 @@ Using Amazon RDS Performance Insights [link](https://docs.aws.amazon.com/AmazonR
 
 Criar uma instancia de DB MySQL em SP para testar o Dashboard
 
-DB Cluster - WIP
+High Availability [link](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.html)
+
+Working with Read Replicas [link](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ReadRepl.html)
+
+AWS Database Migration Service [link](https://aws.amazon.com/pt/dms/)
 
 #### Terça - 06/11/2018
 
