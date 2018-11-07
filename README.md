@@ -1,6 +1,12 @@
 
+#### Quarta - 07/11/2018
+
+Database Log Files [link](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_LogAccess.Concepts.MySQL.html)
+
+Working with DB Parameter Groups [link](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_WorkingWithParamGroups.html)
 
 #### Terça - 06/11/2018
+
 
 08:15 - 12:15 - Treinamento com o time de Produto Goomer
 13:15 - 18:00 - Treinamento com o time de Produto Goomer
