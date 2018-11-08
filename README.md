@@ -1,4 +1,9 @@
 
+#### Quinta - 08/11/2018
+
+TO-DO AWS Database Migration Service [link](https://aws.amazon.com/pt/dms/)
+
+
 #### Quarta - 07/11/2018
 
 Database Log Files [link](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_LogAccess.Concepts.MySQL.html)
@@ -13,7 +18,6 @@ High Availability [link](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/
 
 Working with Read Replicas [link](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ReadRepl.html)
 
-TO-DO AWS Database Migration Service [link](https://aws.amazon.com/pt/dms/)
 
 #### Terça - 06/11/2018
 
