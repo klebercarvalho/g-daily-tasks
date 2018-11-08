@@ -3,6 +3,8 @@
 
 TO-DO AWS Database Migration Service [link](https://aws.amazon.com/pt/dms/)
 
+ You may have a change in latency if your deployment fails over to the standby replica, although AWS is engineered with low-latency network connectivity between Availability Zones. For production workloads, we recommend that you use Provisioned IOPS and DB instance classes (m1.large and larger) that are optimized for Provisioned IOPS for fast, consistent performance. [link](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.html)
+
 
 #### Quarta - 07/11/2018
 
