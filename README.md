@@ -1,6 +1,8 @@
 
 #### Sexta - 09/11/2018
 
+TO-DO IAM Best Practices [link](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
+
 TO-DO AWS Database Migration Service [link](https://aws.amazon.com/pt/dms/)
 
 TO-DO Using Amazon RDS Event Notification [link](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_Events.html)
