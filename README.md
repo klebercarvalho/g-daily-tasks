@@ -1,6 +1,8 @@
 
 #### Sexta - 09/11/2018
 
+Monitor Amazon Aurora MySQL, Amazon RDS for MySQL and MariaDB logs with Amazon CloudWatch [link](https://aws.amazon.com/blogs/database/monitor-amazon-rds-for-mysql-and-mariadb-logs-with-amazon-cloudwatch/)
+
 TO-DO IAM Best Practices [link](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
 
 TO-DO AWS Database Migration Service [link](https://aws.amazon.com/pt/dms/)
