@@ -7,6 +7,8 @@ TO-DO Using Amazon RDS Event Notification [link](https://docs.aws.amazon.com/Ama
 
 TO-DO Amazon RDS Reserved Instances [link](https://aws.amazon.com/rds/details/read-replicas/?nc1=f_ls)
 
+TO-DO Amazon RDS Multi-AZ Deployments [link](https://aws.amazon.com/rds/details/multi-az/)
+
 #### Quinta - 08/11/2018
 
  You may have a change in latency if your deployment fails over to the standby replica, although AWS is engineered with low-latency network connectivity between Availability Zones. For production workloads, we recommend that you use Provisioned IOPS and DB instance classes (m1.large and larger) that are optimized for Provisioned IOPS for fast, consistent performance. [link](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.html)
