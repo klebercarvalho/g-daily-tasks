@@ -58,7 +58,9 @@ Working with Read Replicas [link](https://docs.aws.amazon.com/AmazonRDS/latest/U
 #### Sexta - 26/10/2018
 
 08:15 - 10:00 - Continua o trabalho no diagrama Geral da nova arquitetura
+
 09:15 - 09:45 - Bate com o Felipe e Daniel sobre o projeto da nova arquitetura. Uma vez a arquitetura pronta, pedir opinião com um investidor técnico que trabalha na Dell que é especialista em segurança e um líder técnica da KCMS.
+
 11:45 - 12:30 - Conversei com o Yuri sobre os projetos que ele tem trabalhado.
 
 #### Quinta - 25/10/2018
