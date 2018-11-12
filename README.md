@@ -1,4 +1,6 @@
 
+#### Segunda - 12/11/2018
+
 #### Sexta - 09/11/2018
 
 Monitor Amazon Aurora MySQL, Amazon RDS for MySQL and MariaDB logs with Amazon CloudWatch [link](https://aws.amazon.com/blogs/database/monitor-amazon-rds-for-mysql-and-mariadb-logs-with-amazon-cloudwatch/)
