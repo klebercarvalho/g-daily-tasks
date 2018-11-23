@@ -1,3 +1,5 @@
+#### * Semana 5
+
 #### Sexta - 23/11/2018
 
 - arquitetura de aplicações - Dev, QA/Staging, Pord, Git branchs
@@ -19,6 +21,8 @@
 
 - AWS Data Migration Service (DMS)
 
+#### * Semana 4
+
 #### Quarta - 14/11/2018
 
 - AWS Service Simple Queue Service (SQS)
@@ -31,6 +35,8 @@
 #### Segunda - 12/11/2018
 
 - AWS Service Simple Queue Service (SQS)
+
+#### * Semana 3
 
 #### Sexta - 09/11/2018
 
