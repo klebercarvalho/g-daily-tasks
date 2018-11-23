@@ -1,5 +1,36 @@
+#### Sexta - 23/11/2018
+
+- arquitetura de aplicações - Dev, QA/Staging, Pord, Git branchs
+
+#### Quinta - 22/11/2018
+
+- AWS Data Migration Service (DMS)
+- Planejamento dos próximos passo da arquitetura de aplicações em 3 ambientes (Cloud, Local, Integração c/ ERP)
+
+#### Quarta - 31/11/2018
+
+- Sprint Planning
+
+#### Terça - 20/11/2018
+
+- AWS Data Migration Service (DMS)
+
+#### Segunda - 19/11/2018
+
+- AWS Data Migration Service (DMS)
+
+#### Quarta - 14/11/2018
+
+- AWS Service Simple Queue Service (SQS)
+- AWS Data Migration Service
+
+#### Terça - 13/11/2018
+
+- AWS Service Simple Queue Service (SQS)
 
 #### Segunda - 12/11/2018
+
+- AWS Service Simple Queue Service (SQS)
 
 #### Sexta - 09/11/2018
 
