@@ -1,9 +1,15 @@
+#### segunda - 26/11/2018
+
+- arquitetura de aplicação: PHP Server, NGinx, SQS, Node.js queue
+=  Service Discovery
+
 #### * Semana 5
 
 #### Sexta - 23/11/2018
 
-- arquitetura de aplicações - Dev, QA/Staging, Pord, Git branchs
-
+- arquitetura de aplicações - Dev, QA/Staging, Prod, Git branchs
+- CI/CD usando Gitlab
+- CI/CD usando AWS
 #### Quinta - 22/11/2018
 
 - AWS Data Migration Service (DMS)
