@@ -1,7 +1,7 @@
 #### segunda - 26/11/2018
 
 - arquitetura de aplicação: PHP Server, NGinx, SQS, Node.js queue
-=  Service Discovery
+- Service Discovery
 
 #### * Semana 5
 
