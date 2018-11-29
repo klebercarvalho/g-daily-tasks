@@ -5,9 +5,16 @@
 * DevOps
   * Version Control
     * Gitlab repositories
-  * Release Workflows / Pipelines
-  * Build and Test Code
-  * Unified CI/CD Projects
+  * CI/CD
+    * Release Workflows / Pipelines
+    * Build and Test Code
+    * Unified CI/CD Projects
+  * Infrastructure as Code
+  * Monitoring and Logging
+  * Platform as a Service
+  * Container 
+  * Serverless
+  
 
 
 #### Terça - 27/11/2018 - 23
