@@ -1,3 +1,15 @@
+#### Quinta - 29/11/2018 - 23
+
+- Tablet sincronizando com o Cloud. PHP server está recebendo muitas conexões.
+- Arquitetura da solucão: microservices
+
+
+#### Terça - 27/11/2018 - 23
+
+- Tablet sincronizando com o Cloud. PHP server está recebendo muitas conexões.
+- Arquitetura da solucão: microservices
+
+
 #### Segunda - 26/11/2018 - 22
 
 - arquitetura de aplicação: PHP Server, NGinx, SQS, Node.js queue
