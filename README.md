@@ -3,11 +3,11 @@
 - Tablet sincronizando com o Cloud. PHP server está recebendo muitas conexões.
 - Arquitetura da solucão: microservices
 * DevOps
- * Version Control
-  * Gitlab repositories
- - Release Workflows / Pipelines
- - Build and Test Code
- - Unified CI/CD Projects
+  * Version Control
+    * Gitlab repositories
+  * Release Workflows / Pipelines
+  * Build and Test Code
+  * Unified CI/CD Projects
 
 
 #### Terça - 27/11/2018 - 23
